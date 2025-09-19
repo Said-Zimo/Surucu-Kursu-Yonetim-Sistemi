@@ -48,21 +48,6 @@ Business Logic Layer (BLL) → Uygulamanın mantığını barındırır.
 
 Data Access Layer (DAL) → Veritabanı bağlantısı ve sorgular.
 
-🚀 Çalıştırma
-
-Projeyi klonlayın:
-
-git clone https://github.com/kullaniciadi/surucu-kursu-yonetim-sistemi.git
-
-
-Visual Studio’da projeyi açın.
-
-SQL Server üzerinde gerekli tabloları oluşturun.
-
-App.config dosyasındaki connection string değerini kendi veritabanınıza göre güncelleyin.
-
-Projeyi çalıştırın.
-
 📚 Not
 
 Bu proje, öğrenme ve pratik amacıyla geliştirilmiştir. Gerçek iş hayatında kullanılan kavramların uygulamalı pratiğini sağlamaktadır.
