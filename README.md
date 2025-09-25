@@ -47,7 +47,3 @@ UI (Presentation Layer) → Kullanıcı etkileşimini yönetir.
 Business Logic Layer (BLL) → Uygulamanın mantığını barındırır.
 
 Data Access Layer (DAL) → Veritabanı bağlantısı ve sorgular.
-
-📚 Not
-
-Bu proje, öğrenme ve pratik amacıyla geliştirilmiştir. Gerçek iş hayatında kullanılan kavramların uygulamalı pratiğini sağlamaktadır.
